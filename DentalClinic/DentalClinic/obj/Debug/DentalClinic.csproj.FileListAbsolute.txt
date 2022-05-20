@@ -1,0 +1,100 @@
+C:\Users\Hazem\source\repos\DentalClinic\DentalClinic\bin\Debug\DentalClinic.exe.config
+C:\Users\Hazem\source\repos\DentalClinic\DentalClinic\bin\Debug\DentalClinic.exe
+C:\Users\Hazem\source\repos\DentalClinic\DentalClinic\bin\Debug\DentalClinic.pdb
+C:\Users\Hazem\source\repos\DentalClinic\DentalClinic\obj\Debug\DentalClinic.csprojAssemblyReference.cache
+C:\Users\Hazem\source\repos\DentalClinic\DentalClinic\obj\Debug\DentalClinic.Addform.resources
+C:\Users\Hazem\source\repos\DentalClinic\DentalClinic\obj\Debug\DentalClinic.Editform.resources
+C:\Users\Hazem\source\repos\DentalClinic\DentalClinic\obj\Debug\DentalClinic.Searchform.resources
+C:\Users\Hazem\source\repos\DentalClinic\DentalClinic\obj\Debug\DentalClinic.Properties.Resources.resources
+C:\Users\Hazem\source\repos\DentalClinic\DentalClinic\obj\Debug\DentalClinic.csproj.GenerateResource.cache
+C:\Users\Hazem\source\repos\DentalClinic\DentalClinic\obj\Debug\DentalClinic.csproj.CoreCompileInputs.cache
+C:\Users\Hazem\source\repos\DentalClinic\DentalClinic\obj\Debug\DentalClinic.exe
+C:\Users\Hazem\source\repos\DentalClinic\DentalClinic\obj\Debug\DentalClinic.pdb
+C:\Users\Hazem\source\repos\DentalClinic\DentalClinic\obj\Debug\DentalClinic.List.resources
+C:\Users\Hazem\source\repos\DentalClinic\DentalClinic\obj\Debug\DentalClinic.Form1.resources
+C:\Users\Hazem\source\repos\DentalClinic\DentalClinic\obj\Debug\DentalClinic.IDs.resources
+C:\Users\Hazem\source\repos\DentalClinic\DentalClinic\obj\Debug\DentalClinic.Finance.resources
+C:\Users\Hazem\source\repos\DentalClinic\DentalClinic\bin\Debug\ar-EG\DentalClinic.resources.dll
+C:\Users\Hazem\source\repos\DentalClinic\DentalClinic\obj\Debug\DentalClinic.Addform.ar-EG.resources
+C:\Users\Hazem\source\repos\DentalClinic\DentalClinic\obj\Debug\ar-EG\DentalClinic.resources.dll
+C:\Users\Hazem\source\repos\DentalClinic\DentalClinic\obj\Debug\DentalClinic.IDs.ar-EG.resources
+C:\Users\nadat\Desktop\Dental Clinic\DentalClinic\DentalClinic\bin\Debug\DentalClinic.exe.config
+C:\Users\nadat\Desktop\Dental Clinic\DentalClinic\DentalClinic\bin\Debug\DentalClinic.exe
+C:\Users\nadat\Desktop\Dental Clinic\DentalClinic\DentalClinic\bin\Debug\DentalClinic.pdb
+C:\Users\nadat\Desktop\Dental Clinic\DentalClinic\DentalClinic\bin\Debug\ar-EG\DentalClinic.resources.dll
+C:\Users\nadat\Desktop\Dental Clinic\DentalClinic\DentalClinic\obj\Debug\DentalClinic.csprojAssemblyReference.cache
+C:\Users\nadat\Desktop\Dental Clinic\DentalClinic\DentalClinic\obj\Debug\DentalClinic.Addform.resources
+C:\Users\nadat\Desktop\Dental Clinic\DentalClinic\DentalClinic\obj\Debug\DentalClinic.Editform.resources
+C:\Users\nadat\Desktop\Dental Clinic\DentalClinic\DentalClinic\obj\Debug\DentalClinic.Finance.resources
+C:\Users\nadat\Desktop\Dental Clinic\DentalClinic\DentalClinic\obj\Debug\DentalClinic.Form1.resources
+C:\Users\nadat\Desktop\Dental Clinic\DentalClinic\DentalClinic\obj\Debug\DentalClinic.IDs.resources
+C:\Users\nadat\Desktop\Dental Clinic\DentalClinic\DentalClinic\obj\Debug\DentalClinic.List.resources
+C:\Users\nadat\Desktop\Dental Clinic\DentalClinic\DentalClinic\obj\Debug\DentalClinic.Searchform.resources
+C:\Users\nadat\Desktop\Dental Clinic\DentalClinic\DentalClinic\obj\Debug\DentalClinic.Properties.Resources.resources
+C:\Users\nadat\Desktop\Dental Clinic\DentalClinic\DentalClinic\obj\Debug\DentalClinic.Addform.ar-EG.resources
+C:\Users\nadat\Desktop\Dental Clinic\DentalClinic\DentalClinic\obj\Debug\DentalClinic.IDs.ar-EG.resources
+C:\Users\nadat\Desktop\Dental Clinic\DentalClinic\DentalClinic\obj\Debug\DentalClinic.csproj.GenerateResource.cache
+C:\Users\nadat\Desktop\Dental Clinic\DentalClinic\DentalClinic\obj\Debug\DentalClinic.csproj.CoreCompileInputs.cache
+C:\Users\nadat\Desktop\Dental Clinic\DentalClinic\DentalClinic\obj\Debug\ar-EG\DentalClinic.resources.dll
+C:\Users\nadat\Desktop\Dental Clinic\DentalClinic\DentalClinic\obj\Debug\DentalClinic.exe
+C:\Users\nadat\Desktop\Dental Clinic\DentalClinic\DentalClinic\obj\Debug\DentalClinic.pdb
+C:\Daidamony center program\DentalClinic\DentalClinic\bin\Debug\DentalClinic.exe.config
+C:\Daidamony center program\DentalClinic\DentalClinic\bin\Debug\DentalClinic.exe
+C:\Daidamony center program\DentalClinic\DentalClinic\bin\Debug\DentalClinic.pdb
+C:\Daidamony center program\DentalClinic\DentalClinic\bin\Debug\ar-EG\DentalClinic.resources.dll
+C:\Daidamony center program\DentalClinic\DentalClinic\obj\Debug\DentalClinic.csprojAssemblyReference.cache
+C:\Daidamony center program\DentalClinic\DentalClinic\obj\Debug\DentalClinic.Addform.resources
+C:\Daidamony center program\DentalClinic\DentalClinic\obj\Debug\DentalClinic.Editform.resources
+C:\Daidamony center program\DentalClinic\DentalClinic\obj\Debug\DentalClinic.Finance.resources
+C:\Daidamony center program\DentalClinic\DentalClinic\obj\Debug\DentalClinic.Form1.resources
+C:\Daidamony center program\DentalClinic\DentalClinic\obj\Debug\DentalClinic.IDs.resources
+C:\Daidamony center program\DentalClinic\DentalClinic\obj\Debug\DentalClinic.List.resources
+C:\Daidamony center program\DentalClinic\DentalClinic\obj\Debug\DentalClinic.Searchform.resources
+C:\Daidamony center program\DentalClinic\DentalClinic\obj\Debug\DentalClinic.Properties.Resources.resources
+C:\Daidamony center program\DentalClinic\DentalClinic\obj\Debug\DentalClinic.Addform.ar-EG.resources
+C:\Daidamony center program\DentalClinic\DentalClinic\obj\Debug\DentalClinic.IDs.ar-EG.resources
+C:\Daidamony center program\DentalClinic\DentalClinic\obj\Debug\DentalClinic.csproj.GenerateResource.cache
+C:\Daidamony center program\DentalClinic\DentalClinic\obj\Debug\DentalClinic.csproj.CoreCompileInputs.cache
+C:\Daidamony center program\DentalClinic\DentalClinic\obj\Debug\ar-EG\DentalClinic.resources.dll
+C:\Daidamony center program\DentalClinic\DentalClinic\obj\Debug\DentalClinic.exe
+C:\Daidamony center program\DentalClinic\DentalClinic\obj\Debug\DentalClinic.pdb
+C:\Users\Hazem\Desktop\Daidamony center program\DentalClinic\DentalClinic\bin\Debug\DentalClinic.exe.config
+C:\Users\Hazem\Desktop\Daidamony center program\DentalClinic\DentalClinic\bin\Debug\DentalClinic.exe
+C:\Users\Hazem\Desktop\Daidamony center program\DentalClinic\DentalClinic\bin\Debug\DentalClinic.pdb
+C:\Users\Hazem\Desktop\Daidamony center program\DentalClinic\DentalClinic\bin\Debug\ar-EG\DentalClinic.resources.dll
+C:\Users\Hazem\Desktop\Daidamony center program\DentalClinic\DentalClinic\obj\Debug\DentalClinic.csprojAssemblyReference.cache
+C:\Users\Hazem\Desktop\Daidamony center program\DentalClinic\DentalClinic\obj\Debug\DentalClinic.Addform.resources
+C:\Users\Hazem\Desktop\Daidamony center program\DentalClinic\DentalClinic\obj\Debug\DentalClinic.Editform.resources
+C:\Users\Hazem\Desktop\Daidamony center program\DentalClinic\DentalClinic\obj\Debug\DentalClinic.Finance.resources
+C:\Users\Hazem\Desktop\Daidamony center program\DentalClinic\DentalClinic\obj\Debug\DentalClinic.Form1.resources
+C:\Users\Hazem\Desktop\Daidamony center program\DentalClinic\DentalClinic\obj\Debug\DentalClinic.IDs.resources
+C:\Users\Hazem\Desktop\Daidamony center program\DentalClinic\DentalClinic\obj\Debug\DentalClinic.List.resources
+C:\Users\Hazem\Desktop\Daidamony center program\DentalClinic\DentalClinic\obj\Debug\DentalClinic.Searchform.resources
+C:\Users\Hazem\Desktop\Daidamony center program\DentalClinic\DentalClinic\obj\Debug\DentalClinic.Properties.Resources.resources
+C:\Users\Hazem\Desktop\Daidamony center program\DentalClinic\DentalClinic\obj\Debug\DentalClinic.Addform.ar-EG.resources
+C:\Users\Hazem\Desktop\Daidamony center program\DentalClinic\DentalClinic\obj\Debug\DentalClinic.IDs.ar-EG.resources
+C:\Users\Hazem\Desktop\Daidamony center program\DentalClinic\DentalClinic\obj\Debug\DentalClinic.csproj.GenerateResource.cache
+C:\Users\Hazem\Desktop\Daidamony center program\DentalClinic\DentalClinic\obj\Debug\DentalClinic.csproj.CoreCompileInputs.cache
+C:\Users\Hazem\Desktop\Daidamony center program\DentalClinic\DentalClinic\obj\Debug\ar-EG\DentalClinic.resources.dll
+C:\Users\Hazem\Desktop\Daidamony center program\DentalClinic\DentalClinic\obj\Debug\DentalClinic.exe
+C:\Users\Hazem\Desktop\Daidamony center program\DentalClinic\DentalClinic\obj\Debug\DentalClinic.pdb
+C:\Users\Hazem\Desktop\Daidamony Dental center program\DentalClinic\DentalClinic\bin\Debug\DentalClinic.exe.config
+C:\Users\Hazem\Desktop\Daidamony Dental center program\DentalClinic\DentalClinic\bin\Debug\DentalClinic.exe
+C:\Users\Hazem\Desktop\Daidamony Dental center program\DentalClinic\DentalClinic\bin\Debug\DentalClinic.pdb
+C:\Users\Hazem\Desktop\Daidamony Dental center program\DentalClinic\DentalClinic\bin\Debug\ar-EG\DentalClinic.resources.dll
+C:\Users\Hazem\Desktop\Daidamony Dental center program\DentalClinic\DentalClinic\obj\Debug\DentalClinic.csprojAssemblyReference.cache
+C:\Users\Hazem\Desktop\Daidamony Dental center program\DentalClinic\DentalClinic\obj\Debug\DentalClinic.Addform.resources
+C:\Users\Hazem\Desktop\Daidamony Dental center program\DentalClinic\DentalClinic\obj\Debug\DentalClinic.Editform.resources
+C:\Users\Hazem\Desktop\Daidamony Dental center program\DentalClinic\DentalClinic\obj\Debug\DentalClinic.Finance.resources
+C:\Users\Hazem\Desktop\Daidamony Dental center program\DentalClinic\DentalClinic\obj\Debug\DentalClinic.Form1.resources
+C:\Users\Hazem\Desktop\Daidamony Dental center program\DentalClinic\DentalClinic\obj\Debug\DentalClinic.IDs.resources
+C:\Users\Hazem\Desktop\Daidamony Dental center program\DentalClinic\DentalClinic\obj\Debug\DentalClinic.List.resources
+C:\Users\Hazem\Desktop\Daidamony Dental center program\DentalClinic\DentalClinic\obj\Debug\DentalClinic.Searchform.resources
+C:\Users\Hazem\Desktop\Daidamony Dental center program\DentalClinic\DentalClinic\obj\Debug\DentalClinic.Properties.Resources.resources
+C:\Users\Hazem\Desktop\Daidamony Dental center program\DentalClinic\DentalClinic\obj\Debug\DentalClinic.Addform.ar-EG.resources
+C:\Users\Hazem\Desktop\Daidamony Dental center program\DentalClinic\DentalClinic\obj\Debug\DentalClinic.IDs.ar-EG.resources
+C:\Users\Hazem\Desktop\Daidamony Dental center program\DentalClinic\DentalClinic\obj\Debug\DentalClinic.csproj.GenerateResource.cache
+C:\Users\Hazem\Desktop\Daidamony Dental center program\DentalClinic\DentalClinic\obj\Debug\DentalClinic.csproj.CoreCompileInputs.cache
+C:\Users\Hazem\Desktop\Daidamony Dental center program\DentalClinic\DentalClinic\obj\Debug\ar-EG\DentalClinic.resources.dll
+C:\Users\Hazem\Desktop\Daidamony Dental center program\DentalClinic\DentalClinic\obj\Debug\DentalClinic.exe
+C:\Users\Hazem\Desktop\Daidamony Dental center program\DentalClinic\DentalClinic\obj\Debug\DentalClinic.pdb
